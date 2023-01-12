@@ -2,7 +2,7 @@
 <hr style="height:2px; background:white">
 <p align="left"
 style="background:black;border-radius:10px;padding:5px"
->A Software Engineer and passionate in other fields such Data Science, Machine Learning,CyberSecurity and Networking .I love cotributing to Open Source and sharing my knowledge . Currently working as a IT Supprt Specialist and FreeLancer Software Engineer . I am also a writer and I write about my experiences in the field of Programming ,Data Science , CyberSecurity and hacking . Some of my projects are availble on my portfolio.
+>A jack of all trades and master of some, I'm a IT Support Specialist by day and a Software Developer by night. My passion for exploring other fields such as Data Science, Machine Learning, CyberSecurity, and Networking makes me a unique individual. I am not just solving technical problems but also learning new things. When I'm not busy solving tech problems, you can find me diving into the world of data analysis, machine learning models or securing the cyber world. I also love contributing to Open Source and sharing my knowledge through writing about my experiences on my blog. As a freelancer, I'm always on the lookout for new challenges to conquer. Check out my portfolio for a glimpse of my mad skills.
  </p>
  <hr style="height:2px; background:white">
 <p align='center' style="background:white;border-radius:10px">
